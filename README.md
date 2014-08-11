@@ -19,7 +19,7 @@ at the time of writing this is 1.6.3.
 
 Install Vagrant-Cachier at the console:
 
-  vagrant plugin install vagrant-cachier
+    vagrant plugin install vagrant-cachier
   
 
 DEMOSTRATING THE TEST CASE
