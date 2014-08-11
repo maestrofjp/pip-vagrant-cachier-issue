@@ -29,3 +29,5 @@ If you have all the OS dependencies install from above, just run from the direct
 this project into:
 
     vagrant up
+
+You will see it will hang when trying to install the meager amount of dependencies when using the shared dir `/var/cache/pip`.
